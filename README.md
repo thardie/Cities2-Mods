@@ -14,7 +14,7 @@ Improves pedestrian pathfinding so they will be less likely to cross at "unsafe"
 
    * The installation directory should now include the `BepInEx` folder, `doorstop_config.ini`, `winhttp.dll`
 
-2. Download DLL files from the [release page](https://github.com/slyh/Cities2-Various-Mods/releases) and place them in the `Cities Skylines II/BepInEx/plugins` folder
+2. Download DLL files from the [release page](https://github.com/thardie/Cities2-Mods/releases) and place them in the `Cities Skylines II/BepInEx/plugins` folder
 
 3. Launch the game, mods should be loaded automatically.
 
